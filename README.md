@@ -1,2 +1,2 @@
-# ex115-python
+# ex107-python
 Exercício sobre contas utilizando funções
